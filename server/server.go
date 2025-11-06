@@ -20,7 +20,7 @@ func NewServer(cfg *config.Config) *Server {
 func (s *Server) Start() {
 	router := s.App.Group("/v1")
 	group := router.Group("/transactions")
-	handler.NewTransactionHandler(group)
+	handler.NewTransactionHandler(s.Cfg, group)
 
 	appConnString := fmt.Sprintf("%s:%s", s.Cfg.AppHost, s.Cfg.AppPort)
 

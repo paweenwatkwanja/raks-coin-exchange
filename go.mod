@@ -4,7 +4,7 @@ go 1.25.1
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.9
-	github.com/paweenwatkwanja/transaction-broadcasting v0.0.3
+	github.com/paweenwatkwanja/transaction-broadcasting v1.0.1
 )
 
 require (
@@ -24,6 +24,8 @@ require (
 	github.com/valyala/fasthttp v1.51.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/crypto v0.42.0 // indirect
+	golang.org/x/net v0.43.0 // indirect
 	golang.org/x/sys v0.36.0 // indirect
 	golang.org/x/text v0.29.0 // indirect
+	resty.dev/v3 v3.0.0-beta.3 // indirect
 )
