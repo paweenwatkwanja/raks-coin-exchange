@@ -4,7 +4,7 @@ go 1.25.1
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.9
-	github.com/paweenwatkwanja/transaction-broadcasting v1.0.1
+	github.com/paweenwatkwanja/transaction-broadcasting v1.0.2
 )
 
 require (

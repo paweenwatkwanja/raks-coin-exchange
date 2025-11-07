@@ -51,6 +51,8 @@ github.com/paweenwatkwanja/transaction-broadcasting v1.0.0 h1:DHvNlaKvVAtLuDl5df
 github.com/paweenwatkwanja/transaction-broadcasting v1.0.0/go.mod h1:HszUQ1J51YiaBvbeJMtooF5TkF1gN3XHLcK7ZgPGrPw=
 github.com/paweenwatkwanja/transaction-broadcasting v1.0.1 h1:VAeDUThsgYMBbjQBaok8qz0LW9+Ux3MjoSWAf1Zg6Pc=
 github.com/paweenwatkwanja/transaction-broadcasting v1.0.1/go.mod h1:HszUQ1J51YiaBvbeJMtooF5TkF1gN3XHLcK7ZgPGrPw=
+github.com/paweenwatkwanja/transaction-broadcasting v1.0.2 h1:MPmBpVbavdgeaKI0Azhvi4F/HOX954WaIuY3Frn3Xng=
+github.com/paweenwatkwanja/transaction-broadcasting v1.0.2/go.mod h1:HszUQ1J51YiaBvbeJMtooF5TkF1gN3XHLcK7ZgPGrPw=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rivo/uniseg v0.2.0 h1:S1pD9weZBuJdFmowNwbpi7BJ8TNftyUImj/0WQi72jY=
